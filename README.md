@@ -5,7 +5,7 @@
 <p align="center" width="100%">
   <img src="https://media.licdn.com/dms/image/D5616AQG0d4FjX8Ijow/profile-displaybackgroundimage-shrink_350_1400/0/1686090306135?e=1691625600&v=beta&t=yMs09MgM2oVQmOfF3XWniOvDLH9sYexVzH3znB4EVeM" alt="banner">
 </p>
-<p align="left">My name is Sabrina (she/her) and I'm a web developer from Toronto, Canada!</p>
+<p align="left">My name is Sabrina (she/her) and I'm a web developer from Toronto, Canada! Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</a>!</p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue, Ruby, and SQL.<br>🎯 Goals: to become a better developer<br>🎲 Fun fact: I have 2 dogs!<br><br>Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue, Ruby, and SQL.<br>🎯 Goals: to become a better developer<br>🎲 Fun fact: I have 2 dogs!
 
 ###
 
