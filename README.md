@@ -36,12 +36,19 @@
 
 ###
 
+<h2 align="left">Let's Connect</h2>
+
+###
+
 <div align="left">
   <a href="mailto:sabrinaistheman315@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sabrinaistheman/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://vectorified.com/sky-icon#sky-icon-37.png" width="52" height="40" alt="Porfolio"  />
   </a>
 </div>
 
