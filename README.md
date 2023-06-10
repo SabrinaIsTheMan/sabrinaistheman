@@ -3,7 +3,7 @@
 ###
 
 <p align="center" width="100%">
-  <img src="https://media.licdn.com/dms/image/D5616AQG0d4FjX8Ijow/profile-displaybackgroundimage-shrink_350_1400/0/1686090306135?e=1691625600&v=beta&t=yMs09MgM2oVQmOfF3XWniOvDLH9sYexVzH3znB4EVeM" alt="banner">
+  <img src="https://drive.google.com/uc?id=176Q4rrP6jQ4455h7tOK0YUjfPXBrKF9F" alt="banner">
 </p>
 <p align="left">My name is Sabrina (she/her) and I'm a web developer from Toronto, Canada! Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</a>!</p>
 
