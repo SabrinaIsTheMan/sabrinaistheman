@@ -1,11 +1,13 @@
-<h1 align="left">Hey there 👋 What's up?</h1>
+<h1 align="left">Hey 👋 My name is Sabrina Man</h1>
 
 ###
 
+<h2 align="left">I'm a bilingual web developer</h2>
+
+<p align="left">Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</a>!</p>
 <p align="center" width="100%">
   <img src="https://drive.google.com/uc?id=176Q4rrP6jQ4455h7tOK0YUjfPXBrKF9F" alt="banner">
 </p>
-<p align="left">My name is Sabrina (she/her) and I'm a web developer from Toronto, Canada! Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</a>!</p>
 
 ###
 
@@ -13,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Vue, Ruby, and SQL.<br>🎯 Goals: to become a better developer<br>🎲 Fun fact: I have 2 dogs!
+<p align="left">✨ Creating bugs since 2022<br>📍 I'm based in Toronto <br>📚 I'm currently learning Vue, Ruby, and SQL<br>🎯 Goals: to become a better developer<br>🎲 Fun fact: I have 2 dogs!
 
 ###
 
