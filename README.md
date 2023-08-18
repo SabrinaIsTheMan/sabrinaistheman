@@ -6,7 +6,7 @@
   <img src="https://drive.google.com/uc?id=1Zb7rRomGPDfcPwSrsBHpinu7XXz1Xi1g" alt="banner">
 </p>
 
-<p align="center"><em>I like the fact that everyday is a puzzle. Figuring out that puzzle one day is different from figuring out that puzzle the next day, and slowly and slowly you get better at solving riddles and puzzles, but they always stay fun and fresh, and they get more complicated the more deeper you get. New things keep coming up.</p>
+<p align="center"><em>I like the fact that everyday is a puzzle. Figuring out that puzzle one day is different from figuring out that puzzle the next day, and slowly and slowly you get better at solving riddles and puzzles, but they always stay fun and fresh, and they get more complicated the deeper you get. New things keep coming up.</p>
 <p align="center"> - <a href ="https://youtu.be/po-2bUg4Oso?t=740)" target="_blank" rel="noopener noreferrer">Eli</a></em></p>
 
 ###
