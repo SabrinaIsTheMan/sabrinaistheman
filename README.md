@@ -14,7 +14,7 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📍 I'm based in Toronto <br>📚 I'm currently learning Vue, Ruby, and SQL<br>🎯 Goals: to become a better developer<br>🎲 Fun fact: I have 2 dogs, and I'm bilingual!
 
-<p>Why I love coding: <br><em>I like the fact that everyday is a puzzle. Figuring out that puzzle one day is different from figuring out that puzzle the next day, and slowly and slowly you get better at solving riddles and puzzles, but they always stay fun and fresh, and they get more complicated the more deeper you get. New things keep coming up.<br>- <a href ="https://www.elisbees.com/" target="_blank" rel="noopener noreferrer">Eli (a beekeeper, he's talking about bees)</em></p>
+<p>Why I love coding: <br><em>I like the fact that everyday is a puzzle. Figuring out that puzzle one day is different from figuring out that puzzle the next day, and slowly and slowly you get better at solving riddles and puzzles, but they always stay fun and fresh, and they get more complicated the more deeper you get. New things keep coming up.<br>- <a href ="https://www.elisbees.com/" target="_blank" rel="noopener noreferrer">Eli</a> (a beekeeper, he's talking about bees)</em></p>
   
 <p align="left">Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</a>!</p>
 
