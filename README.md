@@ -4,6 +4,7 @@
 
 <p align="center" width="100%">
   <img src="https://drive.google.com/uc?id=1Zb7rRomGPDfcPwSrsBHpinu7XXz1Xi1g" alt="banner">
+  <h3 align="center"><a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">Check out my portfolio!</a></h3>
 </p>
 
 <p align="center"><em>I like the fact that everyday is a puzzle. Figuring out that puzzle one day is different from figuring out that puzzle the next day, and slowly and slowly you get better at solving riddles and puzzles, but they always stay fun and fresh, and they get more complicated the deeper you get. New things keep coming up.</p>
@@ -11,13 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">📍 I'm based in Toronto <br>📚 I'm currently learning Vue, Ruby, and SQL<br>🎯 Goals: to become a better developer<br>🎲 Fun fact: I have 2 dogs, and I'm bilingual!
-  
-<p align="left">Check out my portfolio <a href ="https://sabrinaistheman.com/" target="_blank" rel="noopener noreferrer">here</a>!</p>
 
 ###
 
